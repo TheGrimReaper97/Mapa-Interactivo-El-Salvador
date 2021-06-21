@@ -4,7 +4,7 @@ Proyecto sobre un mapa interactivo para mejorar el aprendizaje
 
 
 
-¡¡¡¡¡Bienvenido usurio!!!!!!
+¡¡¡¡¡Bienvenido usuario!!!!!!
 
 te damos la bienvenida a un nuevo metodo de aprendizaje online 📋.
 
