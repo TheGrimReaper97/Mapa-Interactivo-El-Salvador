@@ -23,21 +23,27 @@ Herramientas 🛠️
 
 Autores ✒️
 Katherine Lissette Sánchez Vila - Programación, diseño, lógica y manuales
+
 Salvador Alejandro González Meléndez - Programación, diseño, lógica y manuales
+
 José Manuel Rosales Portillo - Programación, diseño, lógica y manuales
+
 Gerson Ernesto Lopez Chevez - Programación, diseño, lógica y manuales
 
 
 
 Licencia 📄
 
-Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) 
+Este proyecto está bajo la licencia CC0 1.0 Universal (CC0 1.0) Dedicación de Dominio Público
 Que establece:
 
+La persona que asoció una obra con este resumen ha dedicado la obra al dominio público, mediante la renuncia a todos 
+sus derechos 
+a la obra bajo las leyes de derechos autorales en todo el mundo, 
+incluyendo todos los derechos conexos y afines, en la medida permitida por la ley.
 
-Usted es libre de: Compartir — copiar y redistribuir el material en cualquier medio o formato Adaptar — remezclar, 
-transformar y construir a partir del material 
-La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
+Puede copiar, modificar, distribuir e interpretar la obra, incluso para propósitos comerciales, 
+sin pedir permiso. Vea Otra información debajo.
 
 
 
