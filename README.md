@@ -9,10 +9,6 @@ Proyecto sobre un mapa interactivo para mejorar el aprendizaje
 te damos la bienvenida a un nuevo metodo de aprendizaje online 📋.
 
 
-Guia de Usuario 💻
-
-
-
 
 
 Herramientas 🛠️
@@ -22,13 +18,13 @@ Herramientas 🛠️
 
 
 Autores ✒️
-Katherine Lissette Sánchez Vila - Programación, diseño, lógica y manuales
+Katherine Lissette Sánchez Vila - Programación, diseño, lógica 
 
-Salvador Alejandro González Meléndez - Programación, diseño, lógica y manuales
+Salvador Alejandro González Meléndez - Programación, diseño, lógica 
 
-José Manuel Rosales Portillo - Programación, diseño, lógica y manuales
+José Manuel Rosales Portillo - Programación, diseño, lógica 
 
-Gerson Ernesto Lopez Chevez - Programación, diseño, lógica y manuales
+Gerson Ernesto Lopez Chevez - Programación, diseño, lógica 
 
 
 
@@ -50,3 +46,5 @@ sin pedir permiso. Vea Otra información debajo.
 Enlaces de interés 👀
 
 [Tablero en Notion] https://www.notion.so/Ingenier-a-de-software-9ff278555545400fb554f1ede690111f
+[Reporte PDF Sobre el Proyecto] https://drive.google.com/file/d/1fMTW9_Ed4Wd_XmJD_ycsFaRO_cwq_BLF/view?usp=sharing
+
