@@ -46,5 +46,6 @@ sin pedir permiso. Vea Otra información debajo.
 Enlaces de interés 👀
 
 [Tablero en Notion] https://www.notion.so/Ingenier-a-de-software-9ff278555545400fb554f1ede690111f
+ 
 [Reporte PDF Sobre el Proyecto] https://drive.google.com/file/d/1fMTW9_Ed4Wd_XmJD_ycsFaRO_cwq_BLF/view?usp=sharing
 
