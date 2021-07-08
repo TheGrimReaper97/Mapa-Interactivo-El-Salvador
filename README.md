@@ -11,7 +11,7 @@ te damos la bienvenida a un nuevo metodo de aprendizaje online 📋.
 
 Manuel de Usuario 🧑🏻‍💻
 
-[Como funciona] https://drive.google.com/file/d/1RyoNtlbJesm8_vvFHLeQwrKAXdAQaQ7z/view?usp=sharing
+[Como funciona] https://drive.google.com/file/d/1PEBSQkEFBoi2urpEEKeZyWjmKl0pGAFt/view?usp=sharing
 
 Herramientas 🛠️
 
