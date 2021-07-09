@@ -26,8 +26,6 @@ Katherine Lissette Sánchez Vila - Programación, diseño, lógica
 
 Salvador Alejandro González Meléndez - Programación, diseño, lógica 
 
-José Manuel Rosales Portillo - Programación, diseño, lógica 
-
 Gerson Ernesto Lopez Chevez - Programación, diseño, lógica 
 
 
